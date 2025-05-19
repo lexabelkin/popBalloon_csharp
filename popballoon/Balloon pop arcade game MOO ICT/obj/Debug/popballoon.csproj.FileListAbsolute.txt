@@ -1,0 +1,10 @@
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\bin\Debug\шариколоп.exe.config
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\bin\Debug\шариколоп.exe
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\bin\Debug\шариколоп.pdb
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\popballoon.csproj.AssemblyReference.cache
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\popballoon.Form1.resources
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\popballoon.Properties.Resources.resources
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\popballoon.csproj.GenerateResource.cache
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\popballoon.csproj.CoreCompileInputs.cache
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\шариколоп.exe
+D:\deFolder\source\repos_csharp\Balloon-Pop-Arcade-Game-in-Windows-Form\Balloon pop arcade game MOO ICT\obj\Debug\шариколоп.pdb
